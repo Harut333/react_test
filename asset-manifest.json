@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_test/static/css/main.4bfcdfca.css",
+    "main.js": "/react_test/static/js/main.a03c3c7d.js",
+    "static/js/787.fbffa0b2.chunk.js": "/react_test/static/js/787.fbffa0b2.chunk.js",
+    "static/media/braden-collum-75XHJzEIeUc-unsplash 1.png": "/react_test/static/media/braden-collum-75XHJzEIeUc-unsplash 1.d45d4bb22366d3c4ae81.png",
+    "static/media/1.png": "/react_test/static/media/1.9c153a1dc89117f0fc72.png",
+    "static/media/3.png": "/react_test/static/media/3.8e44059ed689a74097fe.png",
+    "static/media/6.png": "/react_test/static/media/6.20c4f3c3a42aa2fe3380.png",
+    "static/media/4.png": "/react_test/static/media/4.83ea7bf92ece3bdcc1b0.png",
+    "static/media/5.png": "/react_test/static/media/5.6b47bbf36de6057c8fe8.png",
+    "static/media/2.png": "/react_test/static/media/2.d2f35aa5d1df342c1b16.png",
+    "index.html": "/react_test/index.html",
+    "main.4bfcdfca.css.map": "/react_test/static/css/main.4bfcdfca.css.map",
+    "main.a03c3c7d.js.map": "/react_test/static/js/main.a03c3c7d.js.map",
+    "787.fbffa0b2.chunk.js.map": "/react_test/static/js/787.fbffa0b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bfcdfca.css",
+    "static/js/main.a03c3c7d.js"
+  ]
+}
